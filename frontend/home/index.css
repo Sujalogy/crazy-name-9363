@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.navone {
+    margin: 10px;
+}.navone > .left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.navone > .left > .links {
+    display: flex;
+    gap: 15px;
+}
+.navone  > .left > .logo > img {
+    width: 120px;
+}

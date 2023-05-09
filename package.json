@@ -1,0 +1,24 @@
+{
+  "name": "crazy-name-9363",
+  "version": "1.0.0",
+  "description": "this is a clone of 1mg website...Construct week project...",
+  "main": "app.js",
+  "scripts": {
+    "server" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujalogy/crazy-name-9363.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sujalogy/crazy-name-9363/issues"
+  },
+  "homepage": "https://github.com/Sujalogy/crazy-name-9363#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
